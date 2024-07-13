@@ -1,0 +1,48 @@
+#page{
+    background-color: lightcyan;
+    text-align: center;
+}
+
+#insidepage{
+    background-color: lightpink;
+    text-align: center;
+}
+
+.maintitle{
+    font-family: 'Times New Roman', Times, serif;
+    color: lime;
+}
+
+
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+
+ul{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style-position: inside;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+
+ol{
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style-position: inside;
+
+}
+
+li {
+    margin-top: 10px;
+    border:1px solid grey;
+}
